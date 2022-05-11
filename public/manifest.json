@@ -51,7 +51,6 @@
   "lang": "es-VN",
   "name": "PWA Calculator",
   "short_name": "Calculator",
-  "start_url": "http://localhost:3000",
   "orientation": "portrait",
   "prefer_related_applications": false,
   "scope": "/",
