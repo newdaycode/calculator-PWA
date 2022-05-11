@@ -51,6 +51,7 @@
   "lang": "es-VN",
   "name": "PWA Calculator",
   "short_name": "Calculator",
+  "start_url": "/",
   "orientation": "portrait",
   "prefer_related_applications": false,
   "scope": "/",
